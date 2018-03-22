@@ -1,7 +1,7 @@
 @media (max-width: 480px){
     html, body{
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        background-image: url(/Users/Giger/Desktop/week3/images/bricks.png); 
+        background-image: url(hack-your-future/week3/images/bricks.png); 
         background-attachment: scroll;    
     }
 
