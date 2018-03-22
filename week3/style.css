@@ -28,7 +28,7 @@
 @media (max-width: 1024px){
     html, body{
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        background-image: url(/Users/Giger/Desktop/week3/images/bricks.png); 
+        background-image: url(https://github.com/YelizSezer/hack-your-future/blob/master/week3/images/bricks.png?raw=true); 
         background-attachment: scroll;    
     }
 
