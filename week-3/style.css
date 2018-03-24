@@ -1,4 +1,4 @@
-@media (min-width: 1024px){
+@media (max-width: 2024px){
 body{
     background-image: url(./images/bricks.png);
     font-family: 'Raleway', sans-serif;
