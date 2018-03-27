@@ -155,8 +155,7 @@
     
     @media (max-width: 480px){
         body{
-            background-image: url(./images/background.png);
-            background: stretch; 
+            background-color:rgb(5, 109, 92); 
         }
         
         .wrapper > div{
