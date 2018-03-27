@@ -39,11 +39,6 @@
         grid-row:2/3;
     }
 
-    .logo{
-        background-position: center;
-        width: 400px;
-    }
-
     .cv{
         grid-column: 2/5;
         grid-row: 1/2;
@@ -205,16 +200,23 @@
             text-align: center;
         }
         
-        .pic1, .pic2, .pic3, .pic4, .pic5, .pic6, .pic7, .pic8, .pic9{
-            width: 50px;
-            border: 1px solid rgb(7, 197, 245);
-            box-shadow: 5px 5px 5px rgba(0,0,0,0.3);
-            text-align: center;
-        }
-    
         .blog{
             grid-column: 1;
             grid-row: 4/5;
             text-align: center;
         }
+
+        .education{
+            grid-column: 1;
+            grid-row: 5/6;
+            text-align: center;
+        }
+
+
+        .pic1, .pic2, .pic3, .pic4, .pic5, .pic6, .pic7, .pic8, .pic9{
+            width: 50px;
+            border: 1px solid rgb(7, 197, 245);
+            box-shadow: 5px 5px 5px rgba(0,0,0,0.3);
+            text-align: center;
+        }    
         }
